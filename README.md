@@ -14,3 +14,7 @@ the "first.m" file inside "filtered_data" is for time domain feature extraction
 the "second.m" file inside "filtered_data" is for frequency domain feature extraction 
 the "feature_symmetry -Sheet1.csv" is the final dataset prepared for preprocessing and training.
 "third.m" is for data preprocessing
+
+
+# Complete Report :
+https://docs.google.com/document/d/1dL61XRfoich4ID2ueIfeGrzhJ0Y6viwtP4W5NpH9F88/edit#heading=h.gjdgxs
